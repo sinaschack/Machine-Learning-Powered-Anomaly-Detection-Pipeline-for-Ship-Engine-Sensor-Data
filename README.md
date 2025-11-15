@@ -1,0 +1,2 @@
+# Machine-Learning-Powered-Anomaly-Detection-Pipeline-for-Ship-Engine-Sensor-Data
+Developed an end-to-end anomaly detection pipeline for ship engine telemetry using statistical methods and unsupervised machine learning. Cleaned and processed sensor data, applied IQR-based outlier detection, trained One-Class SVM and Isolation Forest models, and visualized engine health using PCA to identify abnormal operating conditions.
